@@ -33,16 +33,13 @@ improve the code
 -------------------------|
 edit urprefix and urtoken to your prefix and token
 
-# requirements
+# requirements  
 
-Markup : [python](#requirements)
-          section_title<a name="requirements"></a>    
-
-⋅python
-
-*(a brain)
-
-*pip install -r requirements.txt
+python
+-------------------------|
+a brain
+-------------------------|
+pip install -r requirements.txt
 
 
 # feel free to edit anything on the code
