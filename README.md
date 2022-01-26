@@ -39,7 +39,7 @@ python https://python.org
 -------------------------|
 a brain
 pip install -r requirements.txt
--------------------------|
+
 
 
 # feel free to edit anything on the code
