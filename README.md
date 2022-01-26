@@ -8,7 +8,7 @@
 
 
 
-#how to setup:
+# how to setup:
 
 in every discord bot here there is a line
 
@@ -16,13 +16,13 @@ client = commands.Bot(command_prefix = "urprefix")
 token = 'urtoken'
 -------------------------|
 
-#edit
+# edit
 
 
 edit ur prefix to your prefix and urtoken to your token
 -------------| 
 
-#to do:
+# to do:
 
 1. improve the code  
 2. edit urprefix and urtoken to your prefix and token
