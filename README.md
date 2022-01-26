@@ -35,7 +35,7 @@ edit urprefix and urtoken to your prefix and token
 
 # requirements
 
-*python
+⋅)python
 
 *a brain
 
