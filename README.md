@@ -37,7 +37,7 @@ edit urprefix and urtoken to your prefix and token
 
 ⋅python
 
-*a brain
+*(a brain)
 
 *pip install -r requirements.txt
 
