@@ -2,6 +2,8 @@
 
 # discord bots templates
 
+**releasing new discors bots here soon**
+
 **feel free to use them for anything**
 
 **please dont skid, atleast give a little credits.**
