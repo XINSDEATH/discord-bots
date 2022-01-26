@@ -29,6 +29,10 @@ improve the code
 -------------------------|
 edit urprefix and urtoken to your prefix and token
 
+# requirements
+python
+a brain
+pip install -r requirements.txt
 
 
 # feel free to edit anything on the code
