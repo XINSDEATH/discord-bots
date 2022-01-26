@@ -38,8 +38,8 @@ edit urprefix and urtoken to your prefix and token
 python
 -------------------------|
 a brain
--------------------------|
 pip install -r requirements.txt
+-------------------------|
 
 
 # feel free to edit anything on the code
