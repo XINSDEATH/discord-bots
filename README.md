@@ -1,6 +1,8 @@
 
 
-# discord bots templates
+# discord bots templates 
+
+# EVERY 5 STARS = A NEW DISCORD BOT
 
 **releasing new discors bots here soon**
 
