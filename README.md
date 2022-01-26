@@ -13,6 +13,7 @@
 in every discord bot here there is a line
 
 client = commands.Bot(command_prefix = "urprefix")
+-------------------------|
 token = 'urtoken'
 -------------------------|
 
