@@ -1,6 +1,6 @@
 
 
-# discord bots templates 
+# discord bots templates join https://discord.gg/wsdZPuqMFP
 
 # EVERY 5 STARS = A NEW DISCORD BOT
 
