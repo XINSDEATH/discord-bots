@@ -35,11 +35,11 @@ edit urprefix and urtoken to your prefix and token
 
 # requirements
 
-**python**
+*python
 
-**a brain**
+*a brain
 
-**pip install -r requirements.txt**
+*pip install -r requirements.txt
 
 
 # feel free to edit anything on the code
