@@ -25,12 +25,13 @@ edit ur prefix to your prefix and urtoken to your token
 
 # to do:
 
-1. improve the code  
-2. edit urprefix and urtoken to your prefix and token
-
-
-
-feel free to edit anything on the code
+improve the code  
 -------------------------|
+edit urprefix and urtoken to your prefix and token
+
+
+
+# feel free to edit anything on the code
+
 
 
