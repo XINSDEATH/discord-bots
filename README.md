@@ -36,7 +36,6 @@ edit urprefix and urtoken to your prefix and token
 
 # requirements  
 
-python https://python.org
 -------------------------|
 a brain
 pip install -r requirements.txt
