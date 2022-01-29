@@ -34,8 +34,9 @@ improve the code
 -------------------------|
 edit urprefix and urtoken to your prefix and token
 
-# requirements  
+# requirements 
 
+requirements
 -------------------------|
 a brain
 pip install -r requirements.txt
